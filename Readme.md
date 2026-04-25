@@ -62,6 +62,14 @@ project_folder/
     └── val/
 ```
 
+### Option: Using AI Image Downloader Chrome Extension
+For quickly gathering candy images from the web:
+1. Install an AI image downloader extension from Chrome Web Store (e.g., "Image Downloader" or "AI Image Scraper")
+2. Navigate to image search sites (Google Images, Bing, etc.) and search for candy types
+3. Use the extension to automatically detect and download images matching your search
+4. Filter downloaded images to remove non-candy items or duplicates
+5. Organize into your dataset structure as shown above
+
 ## Step 2: Label Images with Label Studio
 1. Install Label Studio:
    ```bash
