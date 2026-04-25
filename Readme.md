@@ -31,6 +31,7 @@ The workflow covers:
 - Google account (for Google Drive and Colab)
 - Label Studio (free and open source)
 - YOLOv5 or YOLOv8 (we'll use YOLOv8 in this guide)
+- Chrome browser (for AI image downloader extension)
 - Approximately 2-4 hours for the entire process (depends on dataset size)
 
 ## Step 1: Download Dataset
